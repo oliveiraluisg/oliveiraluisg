@@ -3,8 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luisgaraujo)
 
-![Luis Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraluisg&show_icons=true&theme=midnight-purple&count_private=true)
-
 ## Tecnologias que estou estudando
 
 <div style="display: inline_block">
