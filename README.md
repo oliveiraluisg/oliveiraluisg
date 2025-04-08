@@ -12,8 +12,7 @@
   <img align="center" alt="phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-Procuro estágio na área da tecnologia, com perspectivas de futuro e crescimento. Este GitHub tem como objetivo aplicar meus conhecimentos, desenvolvê-los e
-compartilhá-los. Sou bem aplicado e esforçado, posso não saber tudo, mas tenho potencial para
+Este GitHub tem como objetivo aplicar meus conhecimentos, desenvolvê-los e compartilhá-los. Sou bem aplicado e esforçado, posso não saber tudo, mas tenho potencial para
 buscar aprender.
 
 
